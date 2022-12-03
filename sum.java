@@ -5,4 +5,7 @@ public class sum{
         b=15;
         System.out.println(a+b);
     }
+
+
+    
 }
